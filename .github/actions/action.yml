@@ -1,4 +1,4 @@
-name: 'Acción de repetición con JavaScript'
+name: 'Acción de repetición'
 author: 'Guillermo'
 description: 'Repite un número de veces el texto indicado'
 
@@ -14,11 +14,10 @@ inputs:
 outputs:
   output_text:
     description: 'El texto repetido el número de veces indicado'
-  
-runs:
-  using: 'node12'
-  main: 'src/main.js'
+
+# Aquí van los valores específicos para configurar Docker 
+# o JavaScript, se explicarán más adelante.
 
 branding:
   icon: 'rotate-cw'
-  color: 'yellow'
+  color: 'blue'
