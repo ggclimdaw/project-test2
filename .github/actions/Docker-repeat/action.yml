@@ -18,7 +18,3 @@ outputs:
 runs:
   using: 'docker'
   image: 'Dockerfile'
-
-branding:
-  icon: 'rotate-cw'
-  color: 'blue'
