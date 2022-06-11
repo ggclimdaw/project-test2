@@ -1,4 +1,4 @@
-name: 'Docker repeat action'
+name: 'Acción de repetición con Docker'
 author: 'Guillermo'
 description: 'Repite un número de veces el texto indicado'
 
